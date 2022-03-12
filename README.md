@@ -7,12 +7,14 @@ Grupo 4 - Turma 924 - IFAL Campus Arapiraca
 3° Wildimyla Karolayne Dantas De Oliveira Leite <br/>
 
 ## Definições de rede:  
+
+```
 ----------------------------------------------------------------------------
-|                Configurações das interfaces de rede                       |
+|                 Configurações das interfaces de rede                      |
 ----------------------------------------------------------------------------
-| ip da subrede   |     10.9.24.0/24	        |       192.168.24.24/29	    |
+| ip da subrede   |     10.9.24.0/24	      |      192.168.24.24/29       |
 ----------------------------------------------------------------------------
-| ip de broadcast |     10.9.24.255/24	      |       192.168.24.31	        |
+| ip de broadcast |     10.9.24.255/24	      |       192.168.24.31         |
 ----------------------------------------------------------------------------
 | ip do gw        |ens160      | 10.9.24.124  |ens192     | 192.168.24.27/29| 
 | ip do samba     |ens160      | 10.9.24.124  |ens192     | 192.168.24.25/29|  
@@ -23,16 +25,16 @@ Grupo 4 - Turma 924 - IFAL Campus Arapiraca
 -----------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------
-|  Definição de nomes e domínio (<grupoX>.<turma9yz>.ifalara.local.)         |
+|  Definição de nomes e domínio (<grupoX>.<turma9yz>.ifalara.local.)        |
 -----------------------------------------------------------------------------
-| vm         |domínio (zona)   | grupo4.turma924.ifalara.local.              |
+| vm         |domínio (zona)   | grupo4.turma924.ifalara.local.             |
 -----------------------------------------------------------------------------
-| aluno 24   |FQDN do gw       | gw.grupo4.turma924.ifalara.local            |
-| aluno 07   |FQDN do samba    | ns1.grupo4.turma924.ifalara.local           |  
-| aluno 07   |FQDN do ns1      | ns1.grupo4.turma924.ifalara.local		       |
-| aluno 04   |FQDN do ns2      | ns2.grupo4.turma924.ifalara.local		       |
-| aluno      |FQDN do web      | www.grupo4.turma924.ifalara.local           |
-| aluno      |FQDN do bd       | bd.grupo4.turma924.ifalara.local            |
+| aluno 24   |FQDN do gw       | gw.grupo4.turma924.ifalara.local           |
+| aluno 07   |FQDN do samba    | ns1.grupo4.turma924.ifalara.local          |  
+| aluno 07   |FQDN do ns1      | ns1.grupo4.turma924.ifalara.local          |
+| aluno 04   |FQDN do ns2      | ns2.grupo4.turma924.ifalara.local          |
+| aluno      |FQDN do web      | www.grupo4.turma924.ifalara.local          |
+| aluno      |FQDN do bd       | bd.grupo4.turma924.ifalara.local           |
 -----------------------------------------------------------------------------
- 
+```
 
